@@ -1,2 +1,2 @@
 # depression_wes
-repository for WES analysis of depressive symptoms
+Repository for code used in WES analysis of depressive symptoms

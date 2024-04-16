@@ -35,7 +35,6 @@ do
     --bimFile=/public/home/zyli/UKB_WES_3rd/unrelated_0_0442/ukb_wes_chr${i}_sample_qc_final_unrelated.bim \
     --famFile=/public/home/zyli/UKB_WES_3rd/unrelated_0_0442/ukb_wes_chr${i}_sample_qc_final_unrelated.fam \
     --SAIGEOutputFile=/public/home/zyli/Depression_WES/PHQ4/step2_single/PHQ4_3rd_10PC_chr${i}.txt \
-    --SampleIDIncludeFile=/public/home/zyli/UKB_WES_3rd/british_white_id.txt \
     --AlleleOrder=alt-first \
     --minMAF=0 \
     --minMAC=20 \
